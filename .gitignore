@@ -24,3 +24,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+test-rectenna-2p4g-pcb-backups/*
